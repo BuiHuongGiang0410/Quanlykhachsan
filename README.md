@@ -12,7 +12,7 @@ Objectivs: Các chức năng cần làm:
 - Xem các loại báo cáo (View report)
 - Đặt chỗ (Book a room) 
 - Hủy đặt chỗ (Cancel a booking)
-- Tạo thanh toán/hóa đơn (Create Payment/bill) và lưu tại hệ thống.
+- Tạo thanh toán/hóa đơn (Create Payment/bill) để in trả khách hàng và lưu tại hệ thống.
 - Kết nối Thanh toán/hóa đơn với báo cáo
 
 
